@@ -1,13 +1,6 @@
 # Plot-the-magnitude-and-frequency-bins-of-any-signal
-Simple code to plot the magnitude and frequency bins of any signal
+Simple code to plot the magnitude and amplitude plots of any signal
 
-
-Steps:
-->The signal file is read in using the load function
-
-->get the fft of the signal
-
-->get the magnitude values of the fft 
-
-->set up the frequency bin axis and plot it 
-
+It will produce two plots:
+1) is the amplitude versus sample number
+2) is the magnitude versus frequency bins
