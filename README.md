@@ -1,4 +1,4 @@
-# Plot-the-magnitude-and-frequency-bins-of-any-signal
+# Get-magnitude-and-amplitude-plots-of-any-signal
 Simple code to plot the magnitude and amplitude plots of any signal
 
 It will produce two plots:
